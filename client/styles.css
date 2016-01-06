@@ -1,0 +1,78 @@
+body {
+    padding-top: 2%;
+    background-color: rgba(188, 188, 188, 0.03);
+    background: url('http://www.remaxhmg.com/images/bgbackgroundbgbackgroundbgbackground.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#autoThumbnail {
+    max-width: 200px;
+}
+
+.img-center {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.checkbox-col {
+    padding-right: 2.8%;
+}
+
+.tweet-custom-textarea {
+    font-size: 25px;
+}
+
+#success-tweet {
+    display: none;
+}
+
+.auto-tweet-text {
+    font-size: 21px;
+}
+
+.settings-row {
+    margin-bottom: 2%;
+}
+
+.auto-tweet-text-checkbox {
+    margin-top: 0;
+}
+
+.auto-tweeting-label {
+    font-size: 21px;
+}
+
+.custom-tweet {
+    width: 519px;
+    height: 110px !important;
+}
+
+.custom-tweet-label {
+    font-weight: bold;
+}
+
+.inventory-row {
+    margin-bottom: 3%;
+}
+
+#auto-inventory-container {
+    margin-top: 2%;
+}
+#login-cta {
+    display: block;
+    margin-top: 3%;
+}
+
+#tweet-auto-inventory {
+    display: inline-block;
+    width: 100%;
+    max-width: 200px;
+    margin-top: 1%;
+}
+
+.auto-text {
+    font-size: 20px;
+}
