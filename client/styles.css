@@ -1,6 +1,6 @@
 body {
     padding-top: 0;
-    padding-bottom: 3%;
+    padding-bottom: 0;
     background-color: rgba(188, 188, 188, 0.03);
     background: url('http://www.remaxhmg.com/images/bgbackgroundbgbackgroundbgbackground.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -42,6 +42,18 @@ body {
 .img-center {
     margin-left: auto;
     margin-right: auto;
+}
+
+#developed-by {
+    margin-top: 1%;
+    color: white;
+    font-size: 18px;
+    margin-bottom: 0;
+}
+
+#footer {
+    margin-top: 3%;
+    background-color: #404040;
 }
 
 #steps-container {
